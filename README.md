@@ -2,7 +2,7 @@
 
 A comprehensive Java-based billing system that simulates a retail store checkout experience with discount calculations, GST computation, and customer-friendly features.
 
-![DMart Logo](dmart-logo.png)
+![DMart Logo](https://tse2.mm.bing.net/th/id/OIP.2-Hv5BheID6M8sxbTaPjbQHaEK?rs=1&pid=ImgDetMain&o=7&rm=3)
 
 ## 📋 Table of Contents
 
@@ -75,12 +75,11 @@ for (int i = 0; i < 10; i++) {
 
 ### Item Selection Process
 
-![Item Selection](item-selection.png)
+![Item Selection](input.png)
 
 ### Generated Bill
 
-![Generated Bill](https://github.com/anilsjr/Dmart-billing--system/blob/main/Dmart-output.png)
-![Generated Bills](/Dmart-output.png)
+![Generated Bill](Dmart-output.png)
 
 ## 🚀 Getting Started
 
