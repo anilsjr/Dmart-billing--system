@@ -4,18 +4,18 @@ A comprehensive Java-based billing system that simulates a retail store checkout
 
 ![DMart Logo](https://tse2.mm.bing.net/th/id/OIP.2-Hv5BheID6M8sxbTaPjbQHaEK?rs=1&pid=ImgDetMain&o=7&rm=3)
 
+![Generated Bill](Dmart-output.png)
+
+
+
 ## 📋 Table of Contents
 
 - [Overview](#overview)
 - [Features](#features)
-- [Screenshots](#screenshots)
 - [Getting Started](#getting-started)
 - [Usage](#usage)
 - [Discount Structure](#discount-structure)
-- [System Requirements](#system-requirements)
-- [Installation](#installation)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## 🔍 Overview
 
