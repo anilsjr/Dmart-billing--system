@@ -79,7 +79,8 @@ for (int i = 0; i < 10; i++) {
 
 ### Generated Bill
 
-![Generated Bill](generated-bill.png)
+![Generated Bill](https://github.com/anilsjr/Dmart-billing--system/blob/main/Dmart-output.png)
+![Generated Bills](/Dmart-output.png)
 
 ## 🚀 Getting Started
 
